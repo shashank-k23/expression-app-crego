@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+nav {
+  background: linear-gradient(to right, #ff9966, #ff5e62);
+  padding: 20px;
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hh {
+  color: white;
+  margin: 0;
+}
+
+
+
+
+
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.hh{
+  position:static;
+}
+/* .nav-container{
+  display:inline-block;
+  background-color: #156994;
+  width:100%
+  
+  
+} */
+/* .container{
+  display:inline-block;
+  background-color: #156994;
+  width:50%
+} */
+.uu{
+  color: yellow;
+}
+.btn1{
+  width:5cm;
+  height: 1cm;
+  margin-left: 40%;
+}
+.text{
+  width:10cm;
+  height: 1cm;
+}
+.msg{
+  color: whitesmoke;
+}
+
+.rainbow-button {
+  background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+  margin-left: 40%;
+}
+
+.rainbow-button:hover {
+  background: linear-gradient(to left, red, orange, yellow, green, blue, indigo, violet);
+  color: black;
+}
+
+.norris {
+  background-color: green;
+}
+
+.norris:hover {
+  background-color: lightgray;
+}
+.heading
+{
+  color: #ffffff;
+  font-family: 'Arial', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+}
+
+
+
+
